@@ -8,5 +8,5 @@
 
 ***
 
-[文章列表](https://github.com/Jingyi-H/myblogs/gh-pages/blist)
+[文章列表](https://github.com/Jingyi-H/myblogs/blist)
 
